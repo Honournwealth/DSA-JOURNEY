@@ -1,2 +1,2 @@
 # DSA-JOURNEY
-This is where i started my my DSA journey in data analysis, learnimng excel, SQL and powerbi.
+This is where I started my DSA journey in data analysis, learning excel, SQL and powerbi.
