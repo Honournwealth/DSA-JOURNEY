@@ -7,3 +7,16 @@ My journey has been fanstastically tough. Though, my initial battle was when ins
 
 # Project Topic: Excel Journey with Mr Murshin
 ## Project Documentation
+This project entails the processes of learning excel, sql and powerbi which are important tools used in data analysis. The class do take place between 7 and 9pm, mondays, wednesdays and thursdays. 
+
+### Tools used
+- Microsoft excel for data cleaning [Download here](https://mcu.edu.ng/)
+    - For data collection
+    - For data extraction
+    - For data cleaning
+    - For data analysis
+  1. Data Manipulations
+  2. Data Munching
+- Microsoft SQL
+- PowerBi
+- 
