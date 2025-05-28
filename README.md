@@ -27,3 +27,8 @@ This project entails the processes of learning excel, sql and powerbi which are 
 SELECT A, B, C
 WHERE A = 2, B = 5, C = -5
 ```
+
+
+ANALYSIS
+
+
