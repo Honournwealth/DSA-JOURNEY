@@ -19,4 +19,11 @@ This project entails the processes of learning excel, sql and powerbi which are 
   2. Data Munching
 - Microsoft SQL
 - PowerBi
-- 
+- Data EXTRACTION
+
+
+
+``` SQL
+SELECT A, B, C
+WHERE A = 2, B = 5, C = -5
+```
